@@ -1,0 +1,2 @@
+# TradingSystem
+Tradig System Manager
