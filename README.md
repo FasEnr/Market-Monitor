@@ -1,2 +1,2 @@
-# Trading System Manager
-Market Monitor and Tradig System Manager
+# Market Monitor
+Market Monitor of the more important Index and equities
